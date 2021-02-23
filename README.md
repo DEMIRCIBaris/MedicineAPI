@@ -22,7 +22,7 @@
   ```
 
 
-Bu şeklide ekleme işlemini yapıyoruz.(StorageId boş geçilebilir. Fakat Substance boş geçilemez. Aynı Code dan ilaç eklenmez. )
+Bu şeklide ekleme işlemini yapıyoruz.( StorageId boş geçilebilir. Fakat Substance boş geçilemez. Aynı Code dan ilaç eklenmez. )
 
 - Bu controllerda aynı zamanda ilacın ismine göre cağırma işlemi de bulunuyor.
 - StorageController da bulunan `rest/v1/depo/{code}` endpoint ile depoda bulunan bütün ilaçlar getirebilir.
