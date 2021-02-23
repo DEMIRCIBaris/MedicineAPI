@@ -26,7 +26,8 @@ Bu şeklide ekleme işlemini yapıyoruz.(StorageId boş geçilebilir. Fakat Subs
 
 - Bu controllerda aynı zamanda ilacın ismine göre cağırma işlemi de bulunuyor.
 - StorageController da bulunan rest/v1/depo/{code} endpoint ile depoda bulunan bütün ilaçlar getirebilir.
-- rest/v1/depo/{storageCode}/ilac/{medicineCode} endpointi ile istenen ilaca ulaşabiliriz.
+
+`rest/v1/depo/{storageCode}/ilac/{medicineCode}` endpointi ile istenen ilaca ulaşabiliriz.
 
 ```javascript
     "kod": "code1",
