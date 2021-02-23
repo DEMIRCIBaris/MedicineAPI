@@ -1,0 +1,14 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.Business.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.Business.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.Business.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.csproj.CopyComplete
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Business\obj\Debug\netcoreapp3.1\MedicalInformationService.Business.pdb

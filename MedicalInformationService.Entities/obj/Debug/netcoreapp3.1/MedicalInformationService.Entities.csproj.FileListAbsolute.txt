@@ -1,0 +1,8 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\obj\Debug\netcoreapp3.1\MedicalInformationService.Entities.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\obj\Debug\netcoreapp3.1\MedicalInformationService.Entities.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\obj\Debug\netcoreapp3.1\MedicalInformationService.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\obj\Debug\netcoreapp3.1\MedicalInformationService.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.Entities\obj\Debug\netcoreapp3.1\MedicalInformationService.Entities.pdb

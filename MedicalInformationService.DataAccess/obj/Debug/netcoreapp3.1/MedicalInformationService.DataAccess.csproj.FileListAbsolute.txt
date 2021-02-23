@@ -1,0 +1,15 @@
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.deps.json
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.runtimeconfig.json
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.runtimeconfig.dev.json
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\bin\Debug\netcoreapp3.1\MedicalInformationService.Entities.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.csprojAssemblyReference.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.AssemblyInfo.cs
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.csproj.CopyComplete
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.dll
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.pdb
+C:\Users\Barış DEMİRCİ\Source\Repos\MedicalInformationService\MedicalInformationService.DataAccess\obj\Debug\netcoreapp3.1\MedicalInformationService.DataAccess.genruntimeconfig.cache
