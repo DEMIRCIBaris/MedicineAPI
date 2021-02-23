@@ -1,4 +1,4 @@
-# MedicineAPI
+# Medicine API 
 - LoginController'ında jwt ile logın işlemi bulunmaktaktadır. 
 - Buradan bir token oluşturup bu token ile "ActiveSubstanceController", "MedicineController" ve "StorageController"da bulunan işlemleri gerçekleştirebiliriz.
 - Bu controllerda GetAll, GetId, Add, Delete, ve update işlemleri bulunmaktadır. 
