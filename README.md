@@ -29,7 +29,6 @@ Bu şeklide ekleme işlemini yapıyoruz.(StorageId boş geçilebilir. Fakat Subs
 - rest/v1/depo/{storageCode}/ilac/{medicineCode} endpointi ile istenen ilaca ulaşabiliriz.
 
 ```javascript
-{
     "kod": "code1",
     "adi": "Ilac2",
     "turu": "Krem",
@@ -42,7 +41,6 @@ Bu şeklide ekleme işlemini yapıyoruz.(StorageId boş geçilebilir. Fakat Subs
             "etkenadi": "ksitol"
         }
     ]
-}
  ```
 Bu şekilde bir sonuç alıyoruz.
 
