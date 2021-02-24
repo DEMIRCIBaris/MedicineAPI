@@ -39,7 +39,6 @@ namespace MedicalInformationService.API.Controllers
         private bool IsValidUserNameAndPassword(string userName, string password)
         {
             //Bu kısımda database'e gidip bu kullanıcı adı ve şifre varmı diye kontrol edilebilir yada bir business işletilebilir.
-            //Ben şimdilik bu kısmı simule ediyorum.
             
             var returnValue = (userName == "Dancho" && password == "123") ?  true : false;
             return returnValue;
